@@ -1,5 +1,10 @@
 # 掼蛋大师 (Guandan Master)
 
+**Language / 语言**
+
+- 简体中文（当前）：`README.md`
+- English: [README.en.md](./README.en.md)
+
 一个以本地对战为核心、支持局域网联机的掼蛋项目。  
 目标是把“规则正确、节奏顺畅、AI可对抗、可持续演进”这四件事同时做好。
 
